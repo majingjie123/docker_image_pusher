@@ -1,2 +1,3 @@
 kubesphere/devops-apiserver:ks-v3.4.1
 kubesphere/devops-tools:ks-v3.4.1
+nginx:latest
