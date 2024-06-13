@@ -1,6 +1,4 @@
-kubesphere/devops-apiserver:ks-v3.4.1
 quay.io/argoproj/argocd:v2.3.3
-kubesphere/devops-tools:ks-v3.4.1
-nginx:latest
-nginx:stable
-minio/minio:latest
+ghcr.io/dexidp/dex:v2.30.2
+kubesphere/builder-base:v3.2.2
+maven:3.8.4-jdk-8
