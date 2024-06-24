@@ -1,1 +1,1 @@
-ghcr.io/opendevin/opendevin:0.6.2
+jenkins/inbound-agent:4.10-2
