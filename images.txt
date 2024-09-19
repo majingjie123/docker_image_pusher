@@ -1,1 +1,2 @@
 elastic/elasticsearch:7.17.24
+docker.elastic.co/kibana/kibana:7.17.24
