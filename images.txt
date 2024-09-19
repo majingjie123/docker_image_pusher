@@ -1,1 +1,1 @@
-openjdk:8-jdk
+elastic/elasticsearch:7.17.24
