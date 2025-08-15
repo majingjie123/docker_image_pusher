@@ -1,5 +1,1 @@
-penpotapp/frontend:latest
-penpotapp/backend:latest
-penpotapp/exporter:latest
-postgres:15
-redis:7
+infiniflow/ragflow:v0.20.1
