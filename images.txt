@@ -1,2 +1,2 @@
-maven:3.8.1-jdk-8
-adoptopenjdk/openjdk8
+node:21.7.2
+nginx:latest
