@@ -1,2 +1,1 @@
-node:21.7.2
-nginx:latest
+docker.io/bitnami/libreoffice:latest
