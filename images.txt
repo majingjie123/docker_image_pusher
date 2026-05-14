@@ -1,1 +1,1 @@
-renothing/libreoffice:alpine
+docker pull linuxserver/libreoffice:25.8.1
