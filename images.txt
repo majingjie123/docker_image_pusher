@@ -1,1 +1,1 @@
-linuxserver/libreoffice:25.8.1
+lscr.io/linuxserver/libreoffice:latest
