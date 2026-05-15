@@ -1,1 +1,1 @@
-lscr.io/linuxserver/libreoffice:latest
+docker pull libreoffice/online:master
