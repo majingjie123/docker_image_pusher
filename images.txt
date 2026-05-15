@@ -1,1 +1,1 @@
-docker pull libreoffice/online:master
+libreoffice/online:master
